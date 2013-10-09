@@ -1,14 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-10-09 12:25:09
-categories: jekyll update
+title:  "Welcome to Websplatter!"
+date:   2013-10-09 17:06:25
+categories: general
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
+Web technologies are constantly changing. I'm constantly testing and trying them!
 
 {% highlight ruby %}
 def print_hi(name)
