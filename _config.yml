@@ -2,7 +2,7 @@ name: Websplatter
 url: http://vsiguero.github.io
 description: A personal trip to web programming technologies
 
-permalink: /:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title.html
 paginate: 10
 pygments: true
 

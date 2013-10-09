@@ -1,5 +1,5 @@
 html, body {
-	background-color: #002a35;
+	background: #002a35 url('../../images/noisy_net.png');
 	color: #839496;
 }
 
@@ -45,7 +45,7 @@ blockquote {
 	border-color: #073642;
 }
 
-
+article { padding: 2px 15px; background: #33333A; margin-bottom: 15px; border-right: 1px solid #444; border-bottom: 1px solid #555;}
 
 /*** Pygments ***/
 .highlight pre {
